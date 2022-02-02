@@ -1,0 +1,17 @@
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.exe.config
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.exe
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.pdb
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csprojAssemblyReference.cache
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csproj.CoreCompileInputs.cache
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csproj.CopyComplete
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.exe
+C:\Users\STANDARD user\source\repos\ExternalPlugins\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.pdb
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csproj.CoreCompileInputs.cache
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.exe
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.pdb
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.exe.config
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.exe
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\bin\Debug\ReadingExcelFileInterop.pdb
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csproj.ResolveComReference.cache
+D:\MyWork\Microfost.Interop.Excel-CSharp\ReadingExcelFileInterop\obj\Debug\ReadingExcelFileInterop.csproj.AssemblyReference.cache
